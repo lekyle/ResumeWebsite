@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lekyle/WebResume.git"
+    "url": "git+https://github.com/lekyle/ResumeWebsite.git"
   },
   "author": "Kyle Roberts",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lekyle/WebResume/issues"
+    "url": "https://github.com/lekyle/ResumeWebsite/issues"
   },
-  "homepage": "https://github.com/lekyle/WebResume#readme",
+  "homepage": "https://github.com/lekyle/ResumeWebsite#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.2.4",
